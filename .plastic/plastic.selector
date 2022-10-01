@@ -1,0 +1,4 @@
+repository "Ename@targaryer@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
